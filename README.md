@@ -11,7 +11,7 @@
 1. cd to backend directory
 2. npm start/ node server.js
 
-# Steps to run the fronend 
+# Steps to run the frontend 
 
 1. cd to frontend directory
 2. npm start
