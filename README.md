@@ -23,7 +23,7 @@
 
 # Note You have to insert the data in mongodb database locally to perform the cart operation as products are fetch from backend
 
-# Steps to insert product in mongodb database locally
+# Steps to insert products in mongodb database locally
 
 1. open mongodb shell by typing command mongo/mongosh
 2. switch the dbs by typing command use productDb
